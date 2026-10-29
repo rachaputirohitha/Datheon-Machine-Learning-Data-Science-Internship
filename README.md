@@ -81,4 +81,4 @@ These projects provided practical experience with data preprocessing, explorator
 
 Completed as part of the Datheon Machine Learning and Data Science Internship.
 
-**Author:** [Your Name]
+
